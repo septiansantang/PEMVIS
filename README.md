@@ -1,6 +1,6 @@
 # Pemrograman Visual (PEMVIS) 💻
 
-Repositori ini berisi kumpulan tugas dan proyek mata kuliah Pemrograman Visual. Fokus utama adalah implementasi antarmuka pengguna (UI) dan logika program menggunakan [Sebutkan Bahasa/Framework, misal: Java Swing / Python Tkinter / C#].
+Repositori ini berisi kumpulan tugas dan proyek mata kuliah Pemrograman Visual. 
 
 ---
 
